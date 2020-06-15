@@ -1,4 +1,4 @@
-#ulzahk-random-messages
+# ulzahk-random-messages
 
 Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
 
@@ -8,14 +8,14 @@ Whenever I start a new project, I don't know what to write for the first commit.
 npm install -g random-msg
 ```
 
-# Usage
+## Usage
 
 ```bash
 funny-commit
 ```
 
-# Contributing
+## Contributing
 If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/Ulzahk/ulzahk-random-messages)
 
-# License
+## License
 ramdom-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
