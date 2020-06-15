@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # npm-random-msg
 # funny-commit
 
@@ -20,3 +21,6 @@ If someone wants to add or improve something, I invite you to collaborate direct
 
 # License
 ramdom-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+=======
+# ulzahk-random-messages
+>>>>>>> 9fec92779c3dbe991bf0c1023b5c55e30a80195c
